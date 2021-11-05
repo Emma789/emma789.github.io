@@ -2,15 +2,15 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://emma789.top
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+title: Emma的博客
+subtitle: "摸鱼的科研狗"
+description: "摸鱼的科研狗"
+keywords: Emmo, 科研狗, 生物信息
 timezone: Asia/Shanghai
 encoding: "utf-8"
-repository: mzlogin/mzlogin.github.io
+repository: Emma789/emma789.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -48,12 +48,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Emma.wang
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: Emma789
+location: Shanghai, China
+email: lp.wang@foxmail.com
 
 # ---------------- #
 #    Navigation    #
