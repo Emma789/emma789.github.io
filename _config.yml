@@ -7,7 +7,7 @@ date_format: "ordinal"
 title: Emma的博客
 subtitle: "摸鱼的科研狗"
 description: "摸鱼的科研狗"
-keywords: Emmo, 科研狗, 生物信息
+keywords: Emma, 科研狗, 生物信息
 timezone: Asia/Shanghai
 encoding: "utf-8"
 repository: Emma789/emma789.github.io
@@ -49,8 +49,8 @@ highlight_theme: github
 #      Author      #
 # ---------------- #
 author: Emma.wang
-organization: tju
-organization_url: https://tongji.edu.cn
+organization: TJU
+organization_url: https://www.tongji.edu.cn
 github_username: Emma789
 location: Shanghai, China
 email: lp.wang@foxmail.com
@@ -152,7 +152,7 @@ lazy_load_disqus : false
 # ---------------- #
 simple_jekyll_search:
     # 是否支持全文搜索
-    fulltext: false
+    fulltext: true
     # 最多显示多少条搜索结果
     limit: 10
 
